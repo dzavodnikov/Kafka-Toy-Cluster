@@ -3,3 +3,9 @@
 
 # Save gitignore.
 !/.gitignore
+
+# Ignore logs of services.
+/logs/
+
+# Ignore current state of nodes.
+/data/
