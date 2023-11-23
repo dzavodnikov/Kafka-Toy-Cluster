@@ -1,0 +1,15 @@
+quorum: kafka1.cup:9092
+topics:
+    - Storage
+    - Data
+    - atlas-connection
+    - atlas-dns
+    - atlas-http
+    - atlas-ntp
+    - atlas-null
+    - atlas-ping
+    - atlas-sslcert
+    - atlas-traceroute
+    - atlas-traffic
+    - atlas-uptime
+    - atlas-wifi
