@@ -29,6 +29,22 @@ $ ./stop.sh
 
 _Note:_ If you want clean-up all working data just execute `$ ./clean.sh` script.
 
+## Examples
+
+Running examples:
+
+```sh
+$ mvn clean install
+$ ./create_topic.sh
+$ ./consumer.sh
+```
+
+In separate shell:
+
+```sh
+$ ./producer.sh
+```
+
 ## License
 
 Distributed under MIT License.
